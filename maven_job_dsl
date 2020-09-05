@@ -1,0 +1,19 @@
+job('maven_dsl') {
+
+    description('Maven dsl project')
+
+    scm {
+        git('https://github.com/hpzrathi/hello-world-1.git', 'master', {node -> node / 'extensions' << '' })
+    }
+
+    steps {
+        maven {
+            mavenInstallation('maven')
+            goals('-B -DskipTests clean package')
+        }
+        maven {
+            mavenInstallation('maven')
+            goals('test')
+         }  
+     }
+}
