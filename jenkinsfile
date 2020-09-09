@@ -1,31 +1,16 @@
-pipeline { 
-    agent any 
-  
-    stages {
-        stage('Compile') { 
-            steps { 
-               withMaven(maven : 'maven') {
-                   sh 'mvn clean compile'
-               
-            }
-        }
+job('job_090920') { 
+  description('Groovy test')
+   scm {
+        git('https://github.com/hpzrathi/hello-world-1.git', 'master')
+   }
+  triggers {
+        scm('00 00 * * *')
     }
-        stage('Test') {
-
-            steps {
-              withMaven(maven : 'maven') {
-                  sh 'mvn test'
-            }
-        }
-    }   
-
- stage('Deploy') {
-            steps {
-                withMaven(maven : 'maven') {
-                  sh 'mvn deploy'
-            }
-        }
+  triggers {
+        cron('H 5 * * 7')
     }
- }
+  steps {
+        shell("echo 'Hello World'")
+    }
 
 }
