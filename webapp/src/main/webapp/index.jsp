@@ -1,1 +1,1 @@
-<h1> This is a test for SCM polling </h1>
+<h1> This is a test for github webhook </h1>
