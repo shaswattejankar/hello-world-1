@@ -1,1 +1,1 @@
-<h1>Demo for GIT SCM polling 171121 <h1>
+<h1>Demo for Git web hook <h1>
