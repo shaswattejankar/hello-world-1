@@ -1,1 +1,1 @@
-<h1>Demo for Git web hook <h1>
+<h1>Demo for pushing artifacts to Jfrog automatically <h1>
