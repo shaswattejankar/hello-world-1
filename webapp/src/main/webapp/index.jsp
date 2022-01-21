@@ -1,2 +1,2 @@
-<h1> Demo for jenkins integration with Jfrogv1<h1>
+<h1> Demo for Poll SCM capability within Jenkins<h1>
 
