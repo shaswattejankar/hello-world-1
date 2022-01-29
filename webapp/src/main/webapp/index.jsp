@@ -1,2 +1,2 @@
-<h1> Demo for Jenkins integration with artifactory<h1>
+<h1> Demo for CI/CD Pipeline<h1>
 
