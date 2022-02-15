@@ -1,2 +1,2 @@
-<h1>CI/CD Pipeline completes for Elegant tmrw<h1>
+<h1>CI/CD Pipeline Demo<h1>
 
