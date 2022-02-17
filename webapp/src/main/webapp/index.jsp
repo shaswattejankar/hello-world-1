@@ -1,2 +1,2 @@
-<h1>CI/CD Pipeline Demo170222<h1>
-  
+<h1>CI/CD Pipeline<h1>
+This completes the Devops course  
