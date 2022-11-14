@@ -1,2 +1,2 @@
-<h1>CI/CD Pipeline demo success<h1>
+<h1>maven tomcat integration<h1>
 
