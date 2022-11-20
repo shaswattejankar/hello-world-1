@@ -1,2 +1,2 @@
-<h1>maven tomcat integration<h1>
+<h1>jenkins maven integration<h1>
 
