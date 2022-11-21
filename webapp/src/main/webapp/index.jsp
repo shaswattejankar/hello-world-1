@@ -1,2 +1,2 @@
-<h1>Jenkins Poll SCM feature validation<h1>
+<h1>Jenkins Github webhook feature validation<h1>
 
