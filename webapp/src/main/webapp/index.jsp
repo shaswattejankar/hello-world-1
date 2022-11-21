@@ -1,2 +1,2 @@
-<h1>jenkins jfrog integrationv1.1<h1>
+<h1>Jenkins Poll SCM feature validation<h1>
 
