@@ -1,2 +1,2 @@
-<h1>Test for POLL SCM feature of Jenkins<h1>
+<h1>Test for Github hook trigger for GITSCM polling in Jenkins<h1>
 
