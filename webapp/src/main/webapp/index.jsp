@@ -1,2 +1,2 @@
-<h1>Test for Github hook trigger for GITSCM polling in Jenkins<h1>
+<h1>Test for Jenkins and Jfrog integration<h1>
 
