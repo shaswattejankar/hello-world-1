@@ -1,2 +1,2 @@
-<h1>Test for Jenkins and Jfrog integration<h1>
+<h1>Test for Jenkins Poll SCM feature<h1>
 
