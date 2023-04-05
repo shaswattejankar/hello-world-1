@@ -1,2 +1,2 @@
-<h1>CI/CD Pipeline Demo - Application upgrade<h1>
+<h1>Maven demo<h1>
 
