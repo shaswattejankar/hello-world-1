@@ -1,2 +1,2 @@
-<h1>Maven demo<h1>
+<h1>Jenkins demo for Poll SCM<h1>
 
