@@ -1,5 +1,5 @@
 pipeline {
-    agent any
+    agent java-slave
 
     stages {
         stage ('Compile Stage') {
