@@ -1,2 +1,2 @@
-<h1>Jenkins demo for Poll SCM<h1>
+<h1>Demo for push notification from Github<h1>
 
