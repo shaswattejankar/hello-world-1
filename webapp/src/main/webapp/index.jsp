@@ -1,2 +1,2 @@
-<h1>Demo for push notification from Github<h1>
+<h1>Demo for CI job<h1>
 
