@@ -1,2 +1,2 @@
-<h1>Latest release - V2.2.3 <h1>
+<h1> Latest change <h1>
 
