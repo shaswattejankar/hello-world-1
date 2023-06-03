@@ -1,2 +1,2 @@
-<h1> Latest change <h1>
+<h1> New change for CI job <h1>
 
