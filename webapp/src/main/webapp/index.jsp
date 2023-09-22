@@ -1,2 +1,2 @@
-<h1> This is a demo for Poll SCM feature <h1>
+<h1> This is a demo for Git hub hook trigger for Git SCM polling <h1>
 
