@@ -1,2 +1,2 @@
-<h1> New change for CI job once again <h1>
+<h1> This is a demo for Poll SCM feature <h1>
 
