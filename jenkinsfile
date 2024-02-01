@@ -1,32 +1,17 @@
 pipeline {
-    agent any
-
+    agent {
+        node {
+            label "maven-slave"
+        }
+     }
     stages {
-        stage ('Compile Stage') {
-
+        stage('Clone Github repo') {
             steps {
-                withMaven(maven : 'M2_HOME') {
-                    sh 'mvn clean install'
-                }
+                git 'https://github.com/ravdy/tweet-trend-new.git'
             }
         }
-
-        stage ('Testing Stage') {
-
-            steps {
-                withMaven(maven : 'M2_HOME') {
-                    sh 'mvn test'
-                }
-            }
-        }
-}
-
-       
-               
-           
-       
     }
-
+}
 
        
                
