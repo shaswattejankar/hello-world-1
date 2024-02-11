@@ -8,11 +8,6 @@ environment {
     PATH = "/opt/apache-maven-3.8.8/bin:$PATH"
 }
     stages {
-        stage('Clone Github repo') {
-            steps {
-                git 'https://github.com/hpzrathi/hello-world-1.git'
-            }
-        }
         stage('build') {
             steps {
                 sh 'mvn clean install'
