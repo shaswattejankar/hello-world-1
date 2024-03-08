@@ -5,3 +5,4 @@ This is a very Simple Maven Project. The purpose is to only test the deployment 
 
 This maven project is used with Jenkins on aws ec2 instances to build with the help of a pipeline. 
 
+Login: guest and Password: guest
