@@ -9,3 +9,5 @@ This maven project is used with Jenkins on aws ec2 instances to build with the h
 temporary ec2 server:
 http://18.190.154.166:8080/
 Login: guest and Password: guest
+
+Login with the above credentials and build the app 
